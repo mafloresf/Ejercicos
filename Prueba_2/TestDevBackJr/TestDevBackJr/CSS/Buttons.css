@@ -1,0 +1,23 @@
+﻿
+/* Green */
+.button1 {
+    background-color: #4CAF50;
+}
+/* Blue */
+.button2 {
+    background-color: #008CBA;
+    height: 26px;
+}
+/* Red */
+.button3 {
+    background-color: #f44336;
+}
+/* Gray */
+.button4 {
+    background-color: #e7e7e7;
+    color: black;
+}
+/* Black */
+.button5 {
+    background-color: #555555;
+}

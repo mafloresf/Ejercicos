@@ -1,0 +1,37 @@
+﻿body {
+    background: url(../img/Fondo01.jpg);
+}
+
+.one {
+    list-style: square inside;
+}
+
+.two {
+    list-style-position: outside;
+    list-style-type: circle;
+}
+
+.three {
+    list-style-image: url("https://mdn.mozillademos.org/files/11979/starsolid.gif");
+    list-style-position: inherit;
+}
+
+ul.navega li {
+    display: inline;
+    padding-right: 0.5em;
+}
+
+.Center {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+}
+
+.Table {
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    /*border-bottom:groove ;*/
+    border: groove;
+}
